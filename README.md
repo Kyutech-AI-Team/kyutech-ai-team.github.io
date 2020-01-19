@@ -40,17 +40,17 @@ We are cooperating together for providing methods and techniques on issues and d
 - [脳の謎に挑む](https://www.rs.tus.ac.jp/bird/pdf/BIRDsympoPoster_2018-final3.pdf).
 
 ## Contributors
-- Masahiro Oya, introduced by [[Univ. HP]](https://hyokadb02.jimu.kyutech.ac.jp/html/6_en.html)[Researchmap](https://researchmap.jp/read0171613/?lang=english).
+- Masahiro Oya, introduced by [[Univ. HP]](https://hyokadb02.jimu.kyutech.ac.jp/html/6_en.html) or [[Researchmap]](https://researchmap.jp/read0171613/?lang=english).
 
-- Keiichi Horio[Univ. HP](https://hyokadb02.jimu.kyutech.ac.jp/html/356_en.html)[Researchmap](https://researchmap.jp/read0161062/?lang=english).
+- Keiichi Horio, introduced by [[Univ. HP]](https://hyokadb02.jimu.kyutech.ac.jp/html/356_en.html) or [[Researchmap]](https://researchmap.jp/read0161062/?lang=english).
 
-- Hiroaki Wagatsuma, introduced by [Univ. HP](https://hyokadb02.jimu.kyutech.ac.jp/html/358_en.html)[Researchmap](https://researchmap.jp/wagaKBR_/?lang=english)[Google Scholar](https://scholar.google.com/citations?user=10bxz1QAAAAJ&oi=ao).
+- Hiroaki Wagatsuma, introduced by [[Univ. HP]]https://hyokadb02.jimu.kyutech.ac.jp/html/358_en.html), [[Researchmap]](https://researchmap.jp/wagaKBR_/?lang=english) or [[Google Scholar]](https://scholar.google.com/citations?user=10bxz1QAAAAJ&oi=ao).
 
-- Hakaru Tamukoh, introduced by [Univ. HP](https://hyokadb02.jimu.kyutech.ac.jp/html/100000641_en.html)[Researchmap](https://researchmap.jp/read0109207/?lang=english)[Google Scholar](https://scholar.google.com/citations?user=RkAWspsAAAAJ).
+- Hakaru Tamukoh, introduced by [[Univ. HP]]https://hyokadb02.jimu.kyutech.ac.jp/html/100000641_en.html)[[Researchmap]](https://researchmap.jp/read0109207/?lang=english) or [[Google Scholar]](https://scholar.google.com/citations?user=RkAWspsAAAAJ).
 
-- Takeshi Nishida, introduced by [Univ. HP](https://hyokadb02.jimu.kyutech.ac.jp/html/34_en.html)[Researchmap](https://researchmap.jp/TakeshiNishida/)[Google Scholar](https://scholar.google.com/citations?user=FToK1BoAAAAJ).
+- Takeshi Nishida, introduced by [[Univ. HP]]https://hyokadb02.jimu.kyutech.ac.jp/html/34_en.html)[[Researchmap]](https://researchmap.jp/TakeshiNishida/) or [[Google Scholar]](https://scholar.google.com/citations?user=FToK1BoAAAAJ).
 
-- Ryutaro Ichise, introduced by [Researchmap](https://researchmap.jp/read0068442/?lang=english).
+- Ryutaro Ichise, introduced by [[Researchmap]](https://researchmap.jp/read0068442/?lang=english).
 
-- Lihua Zhao, introduced by [Google Scholar](https://scholar.google.co.jp/citations?user=O5gPJg4AAAAJ&hl=en).
+- Lihua Zhao, introduced by [[Google Scholar]](https://scholar.google.co.jp/citations?user=O5gPJg4AAAAJ&hl=en).
 
