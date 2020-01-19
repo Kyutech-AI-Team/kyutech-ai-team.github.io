@@ -14,7 +14,7 @@ We are cooperating together for providing methods and techniques on issues and d
 - [空間移動ロボットにおける要素技術解説（Deep Learningを含む）](https://roscon.ros.org/jp/2018/presentations/ROSCon_JP_2018_presentation_15.pdf). 
 
 ## Books
-- [強いAI・弱いAI 研究者に聞く人工知能の実像 - 丸善出版](https://www.maruzen-publishing.co.jp/item/?book_no=302302)[related site](https://ameblo.jp/kurofunedayservice/entry-12511574583.html).
+- [強いAI・弱いAI 研究者に聞く人工知能の実像 - 丸善出版 book](https://www.maruzen-publishing.co.jp/item/?book_no=302302) and [radio](https://ameblo.jp/kurofunedayservice/entry-12511574583.html).
 - [実用ロボット開発のためのROSプログラミング ](https://www.morikita.co.jp/books/book/3240). 
 - [Cyber-Physical Systems for Social Applications](https://books.google.co.jp/books/about/Cyber_Physical_Systems_for_Social_Applic.html?id=0CuODwAAQBAJ&redir_esc=y). 
 - [Neuromorphic and Brain-Based Robots](https://www.cambridge.org/9780521768788). 
@@ -44,11 +44,11 @@ We are cooperating together for providing methods and techniques on issues and d
 
 - Keiichi Horio, introduced by [[Univ. HP]](https://hyokadb02.jimu.kyutech.ac.jp/html/356_en.html) or [[Researchmap]](https://researchmap.jp/read0161062/?lang=english).
 
-- Hiroaki Wagatsuma, introduced by [[Univ. HP]]https://hyokadb02.jimu.kyutech.ac.jp/html/358_en.html), [[Researchmap]](https://researchmap.jp/wagaKBR_/?lang=english) or [[Google Scholar]](https://scholar.google.com/citations?user=10bxz1QAAAAJ&oi=ao).
+- Hiroaki Wagatsuma, introduced by [[Univ. HP]](https://hyokadb02.jimu.kyutech.ac.jp/html/358_en.html), [[Researchmap]](https://researchmap.jp/wagaKBR_/?lang=english) or [[Google Scholar]](https://scholar.google.com/citations?user=10bxz1QAAAAJ&oi=ao).
 
-- Hakaru Tamukoh, introduced by [[Univ. HP]]https://hyokadb02.jimu.kyutech.ac.jp/html/100000641_en.html)[[Researchmap]](https://researchmap.jp/read0109207/?lang=english) or [[Google Scholar]](https://scholar.google.com/citations?user=RkAWspsAAAAJ).
+- Hakaru Tamukoh, introduced by [[Univ. HP]](https://hyokadb02.jimu.kyutech.ac.jp/html/100000641_en.html)[[Researchmap]](https://researchmap.jp/read0109207/?lang=english) or [[Google Scholar]](https://scholar.google.com/citations?user=RkAWspsAAAAJ).
 
-- Takeshi Nishida, introduced by [[Univ. HP]]https://hyokadb02.jimu.kyutech.ac.jp/html/34_en.html)[[Researchmap]](https://researchmap.jp/TakeshiNishida/) or [[Google Scholar]](https://scholar.google.com/citations?user=FToK1BoAAAAJ).
+- Takeshi Nishida, introduced by [[Univ. HP]](https://hyokadb02.jimu.kyutech.ac.jp/html/34_en.html)[[Researchmap]](https://researchmap.jp/TakeshiNishida/) or [[Google Scholar]](https://scholar.google.com/citations?user=FToK1BoAAAAJ).
 
 - Ryutaro Ichise, introduced by [[Researchmap]](https://researchmap.jp/read0068442/?lang=english).
 
