@@ -31,6 +31,7 @@ We are cooperating together for providing methods and techniques on issues and d
 - [An Ontology based Map Converter for Intelligent Vehicles](http://ceur-ws.org/Vol-1690/paper44.pdf).
 - [Logical Scenarios and Coverage Analyses Enhanced by a Representative Trajectory Model to Reduce Test Cases to Limited Combinations](https://www.semanticscholar.org/paper/Logical-Scenarios-and-Coverage-Analyses-Enhanced-by-Wagatsuma/2d3969e9c5d32035ce9ab18e57ded6f2abda979f).
 - [Simultaneous Recording of EEGs and Eye-Tracking for Investigating Situation Awareness and Working Memory Load in Distracted Driving: A Prospective Analysis Toward the Neuro-Driving Framework](https://www.frontiersin.org/10.3389/conf.fnins.2015.91.00010/event_abstract).
+- [A Description Logic Architecture to Reconstitute the Minimal Semantic Representation Equivalent to the Unique Solution of Bongard's Ill-Posed Problems Considered to be Incapable Without Human Intuition by Jisha MANIAMMA](https://www.slideshare.net/HiroakiWagatsuma/public-hearing-of-phd-thesis-of-jisha-maniamma).
 
 ## Seminars
 - [AIの倫理と人の倫理 (View Fullscreenボタンを押すと文字化けが解消)](https://www.slideshare.net/HiroakiWagatsuma/cpd-2020-acutp-227748217).
