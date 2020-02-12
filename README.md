@@ -33,8 +33,8 @@ We are cooperating together for providing methods and techniques on issues and d
 - [Simultaneous Recording of EEGs and Eye-Tracking for Investigating Situation Awareness and Working Memory Load in Distracted Driving: A Prospective Analysis Toward the Neuro-Driving Framework](https://www.frontiersin.org/10.3389/conf.fnins.2015.91.00010/event_abstract).
 
 ## Seminars
-- [AIの倫理と人の倫理](https://www.slideshare.net/HiroakiWagatsuma/cpd-2020-acutp-227748217).
-- [脳内知識表現とその工学的実現についてー述語論理から組込み技術に向けたオントロジー技術の活用ー](https://www.slideshare.net/HiroakiWagatsuma/ss-227749663).
+- [AIの倫理と人の倫理 (View Fullscreenボタンを押すと文字化けが解消)](https://www.slideshare.net/HiroakiWagatsuma/cpd-2020-acutp-227748217).
+- [脳内知識表現とその工学的実現についてー述語論理から組込み技術に向けたオントロジー技術の活用ー(View Fullscreenボタンを押すと文字化けが解消)](https://www.slideshare.net/HiroakiWagatsuma/ss-227749663).
 - [自動制御と情報科学の融合技術の確立：自動運転システム開発における要請とIoTの深化](https://www.sice.jp/info/info_news/news_20160926.html).
 - [AI、自動運転、ロボットの現状と未来](http://car-el.ksrp.or.jp/topics/hibikinosaron_156.pdf).
 - [ロボットの挑戦～未来のものづくりを変える](http://www.ksrp.or.jp/news/0abee6e325ad94231e44dd2ae8951869.pdf).
